@@ -1,0 +1,2 @@
+https://www.packtpub.com/en-us/learning/how-to-tutorials/hacking-android-apps-using-xposed-framework
+https://www.veracode.com/security/android-hacking
