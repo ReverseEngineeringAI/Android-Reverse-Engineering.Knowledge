@@ -3,3 +3,6 @@
 - [Three Ways to Hack Mobile Apps](https://youtu.be/QwwLSyRzNwo)
 - https://medium.com/swlh/reverse-engineering-and-modifying-an-android-game-apk-ctf-c617151b874c
 - https://www.jamesstevenson.me/reverse-engineering-android-games/
+- https://krdevnotes.com/reverse-engineering-and-unlocking-android-games-that-are-no-longer-supported/
+- https://palant.info/2021/02/18/reverse-engineering-a-unity-based-android-game/
+- https://medium.com/swlh/reverse-engineering-and-modifying-an-android-game-apk-ctf-c617151b874c
