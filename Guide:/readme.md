@@ -2,3 +2,4 @@
 - https://www.veracode.com/security/android-hacking
 - [Three Ways to Hack Mobile Apps](https://youtu.be/QwwLSyRzNwo)
 - https://medium.com/swlh/reverse-engineering-and-modifying-an-android-game-apk-ctf-c617151b874c
+- https://www.jamesstevenson.me/reverse-engineering-android-games/
